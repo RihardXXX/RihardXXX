@@ -6,6 +6,7 @@
 3. `vue js`
 4. `nuxt js` 
 5. `quasar js`
-6. `react js`
+6. `capasitor`
+7. `react js`
 - 🌱 I’m currently learning ionic
 - 📫 How to reach me [my vk.com](https://vk.com/id493337055)
