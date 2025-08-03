@@ -10,3 +10,4 @@
 7. `react js`
 - 🌱 I’m currently learning ionic
 - 📫 How to reach me [my vk.com](https://vk.com/id493337055)
+- meeting app [https://check-meetings.ru](https://check-meetings.ru/)
