@@ -10,4 +10,4 @@
 7. fantasy land js
 - 📫 How to reach me [my vk.com](https://vk.com/id493337055)
 - meeting app [check-meetings](https://check-meetings.ru/)
-- my page [rihard-developer](https://rihard-developer.ru/)]
+- my page [rihard-developer](https://rihard-developer.ru/)
