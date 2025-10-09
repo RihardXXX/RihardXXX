@@ -9,5 +9,5 @@
 6. `react js`
 7. fantasy land js
 - 📫 How to reach me [my vk.com](https://vk.com/id493337055)
-- meeting app [https://check-meetings.ru](https://check-meetings.ru/)
-- my page [[https://check-meetings.ru](https://rihard-developer.ru/)]
+- meeting app [check-meetings](https://check-meetings.ru/)
+- my page [[rihard-developer]](https://rihard-developer.ru/)]
