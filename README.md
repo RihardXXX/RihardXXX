@@ -15,4 +15,3 @@
 - my page <a href="https://rihard-developer.ru/" target="_blank">rihard-developer</a>
 - my course on functional programming on JS <a href="https://rihard-developer.ru/course/" target="_blank">functional programming on JS</a>
 - meeting app <a href="https://check-meetings.ru/" target="_blank">check-meetings</a>
-- 📫 How to reach me <a href="https://vk.com/id493337055" target="_blank">my vk.com</a>
