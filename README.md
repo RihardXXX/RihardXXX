@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rihard, I'm from Dagestan
+# 👋 Hi, I'm Rihard
 
 - 👀 I'm interested in programming and javascript (functional programming)
 - 🌱 I have already studied:
